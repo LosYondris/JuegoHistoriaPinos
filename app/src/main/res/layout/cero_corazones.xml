@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="300dp"
+    android:layout_gravity="center"
+    android:background="@drawable/bg_rojo_borde_amerillo"
+    android:layout_height="420dp">
+
+
+
+    <TextView
+        android:background="@drawable/bolde_bg"
+        android:id="@+id/cerrarx"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="X"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="120dp"
+        android:textColor="#fff"
+        android:textSize="12sp"
+        android:padding="6dp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_gravity="center"/>
+
+    <!--    </LinearLayout>-->
+
+
+    <ImageView
+        android:id="@+id/id_monedad"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/pinos_iconos"/>
+
+    <TextView
+        android:id="@+id/idbio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PINOS"
+        android:fontFamily="@font/bowlby_one"
+        android:textColor="#fff"
+        android:textSize="40dp"
+        android:layout_marginTop="-20dp"
+        android:layout_marginBottom="10dp"
+        android:textStyle="bold"
+        android:gravity="center"/>
+
+    <!--        estrellas del blancas-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="-25dp">
+
+        <TextView
+            android:id="@+id/live1"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_margin="2dp"
+            android:background="@drawable/corazon_bolde"/>
+        <TextView
+            android:id="@+id/live2"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_margin="2dp"
+            android:background="@drawable/corazon_bolde"/>
+        <TextView
+            android:id="@+id/live3"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_margin="2dp"
+            android:background="@drawable/corazon_bolde"/>
+
+
+    </LinearLayout>
+
+
+
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="Obtuviste tres repuestas incorrectas, debes estudiar más, iras al nivel anterior a reforzar tus conocimientos "
+        android:fontFamily="@font/autour_one"
+        android:textColor="#fff"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:gravity="center"/>
+
+</LinearLayout>

@@ -1,0 +1,167 @@
+<resources>
+    <array name="nivel_1">
+        <item>¿Cuál es la capital de Republica Dominicana?;Puerto Plata;San Pedro de Macorís;*Santo
+            Domingo;La Romana
+        </item>
+        <item>¿Quién Descubrió América?;Joaquín Balaguer;Bartolo Colon;Pedro Santana;*Cristóbal
+            Colon
+        </item>
+        <item>¿Que celebran los dominicanos el 27 de febrero?;*La Independencia;Las Madres;La
+            Restauración;La Constitución
+        </item>
+        <item>¿Quién es el padre de la patria?;Pedro Santana;Francisco del Rosario Saches;*Juan
+            Pablo Duarte;Félix Encarnizo
+        </item>
+        <item>¿Cuál es el año de la Independencia dominicana?;1998;*1844;1833;1856</item>
+        <item>¿La batalla de 30 de marzo se libró en?;*Santiago;Azua;Nagua;Mao</item>
+        <item>¿Fue quién disparó el trabucazo?;Francisco del Rosario Saches;*Ramon Matías
+            Mella;Felipe Alfau;Gregorio Luperón
+        </item>
+        <item>¿La Trinitaria fue una sociedad creada por?;Pedro Santana;Ramón Matías Mella;*Juan
+            Pablo Duarte;Hermanas Mirabal
+        </item>
+        <item>¿En qué fecha se funda la sociedad secreta la trinitaria?;*16 de julio de 1838;05 de
+            noviembre de 1492;27 de febrero de 1844;30 de marzo de 1844
+        </item>
+        <item>¿Quién comandaba las tropas del ejército Dominicano en la batalla del 30 de marzo del
+            1844;Simón Bolívar;Matías Ramón Mella;*José María Imbert;Juan Pablo Duarte
+        </item>
+        <item>¿Cuál es el año de la Independencia dominicana?;1998;1833;1856;*1844</item>
+        <item>¿Contra quién lucharon los dominicanos en la batalla del 30 de marzo?;*Haití;Estados
+            Unidos;Cuba;Francia
+        </item>
+        <item>¿Quien elige el presidente de la republica dominicana?;Los Diputados;Los Alcaldes;Los
+            Extranjeros;*El Pueblo
+        </item>
+        <item>¿Cuál es el año de la Independencia dominicana?;1998;*1844;1833;1856</item>
+    </array>
+
+    <array name="nivel_2">
+        <item>¿Quién comandaba las tropas del ejército Haitiano en la batalla del 30 de marzo del
+            1844?;Matías Ramón Mella;Pedro de Mena;José María Imbert;*Jean Louis Pierrot
+        </item>
+        <item>¿Cuáles son los símbolos de la patria?;*Escudo, Bandera, Himno;Escudo, Cielo,
+            Tierra;Agua, Tierra, Mar;El Sol y Tierra
+        </item>
+        <item>¿Cuáles son los colores de la bandera nacional?;Negro, Amarillo, Verde;*Azul, Rojo,
+            Blanco;Azul, Rosado, Negro;Blanco, Rojo, Morado
+        </item>
+        <item>¿En qué año se oficializo el escudo nacional?;27 de febrero 1492;14 de abril de
+            1844;*6 de noviembre de 1844;21 de enero 1836
+        </item>
+        <item>¿Cuál es el nombre del libro que tienes el escudo nacional en el centro?;Libro
+            Nacho;*la biblia;La Patria;Ningunos
+        </item>
+        <item>¿Quien escribió la nota del himno nacional?;Juan Pablo Duarte;Omega;Emilio Prud
+            Homme;*Jose Reye
+        </item>
+        <item>¿Quien compuso la música del himno nacional?;Jose Reye;Pedro Santana;*Emilio Prud
+            Homme;Pedro Henríquez Ureña
+        </item>
+        <item>¿En que fecha fue la independencia nacional?;25 de noviembre 1492;27 de marzo de
+            1844;*27 febrero de 1844;5 de noviembre 1492
+        </item>
+        <item>¿Cual es la fecha de la restauración dominicana?;15 de abril del 1820;*16 de agosto
+            del 1863;30 de marzo del 1844;Ningunos
+        </item>
+        <item>¿Cada que tiempo se elige un presidente en la republica dominicana?;Cada 6 años;Cada 2
+            años;*Cada 4 años;Cada 16 años
+        </item>
+        <item>¿En cuanta provincia está dividida la Republica Dominicana?;32 Provincia;*31 y un
+            distrito nacional;4 Provincia;20 Provincia
+        </item>
+        <item>¿Cual es la flor nacional del a Republica Dominicana?;La Sabila;El Cacao;*La Flor de
+            bayahibe;La Flor Trinitaria
+        </item>
+        <item>¿Cual es el árbol nacional de la Republica Dominicana?;*Arbol de Caoba;Arbol de
+            Café;Arbol de Arroz;Arbol de Aguacate
+        </item>
+        <item>¿Quien escribió la nota del himno nacional?;Juan Pablo Duarte;Omega;Emilio Prud
+            Homme;*Jose Reye
+        </item>
+    </array>
+
+    <array name="nivel_3">
+        <item>¿Quién fue el primer presidente de la Republica Dominicana?;Juan Pablo Duarte;*Pedro
+            Santana;Ulises Heureaux;Buenaventura Báez
+        </item>
+        <item>¿En qué fecha fue el descubrimiento de América?;*El 12 de octubre de 1492;El 27 de
+            febrero 1844;El 5 de noviembre 1836;El 16 de agosto de 2000
+        </item>
+        <item>¿En qué país nació Cristóbal Colon?;España;*Italia;Alemania;Estados Unidos</item>
+        <item>¿Cual es la fecha de nacimiento de Cristóbal colon?;El 12 de noviembre 1844;El 25 de marzo
+            de 1450;*El 31 de octubre de 1451;El 12 febrero de 1492
+        </item>
+        <item>¿Cues era el nombre de nacimiento de Cristóbal
+            colon?;*Cristoforo;Cristian;Cristopher;Colombo
+        </item>
+        <item>¿Cuáles eran los nombres de las tres carabelas que Cristóbal Colon?;María, Josefa,
+            Cristina;La blanca, Jesu, Pedro;Caribe, India, Santa;*La Pinta, La Niña y La Santa María
+        </item>
+        <item>¿El primer viaje que realizo Cristóbal colon en busca de una nueva ruta fue?;*El 3 de
+            agosto de 1492;El 5 de noviembre de 1403;El 12 de octubre de 1496;El 15 de mayo de 1498
+        </item>
+        <item>¿En que fecha fue el segundo viaje de Cristóbal
+            Colon?;1492-1495;1498-1500;*1493-1496;1500-1502
+        </item>
+        <item>¿Cuántos viaje realizo Cristóbal Colon al llamado nuevo mundo?;3 Viajes;*4 Viajes;5
+            Viajes;1 solo Viajes
+        </item>
+        <item>¿Quién concedió los permisos a Cristóbal Colon para navegar en busca de una nueva ruta
+            hacia las Indias por el océano Atlántico?;Juan Pablo Duarte;*Reina Isabel I de
+            Castilla;Fernando de Aragon;El Rey Enrique IV
+        </item>
+        <item>¿Cuál fue la fecha en la que fallece Cristóbal Colon?;*El 20 de mayo de 1506;El 3 de
+            agosto de 1492;El 5 de noviembre de 1488;28 de septiembre de 1488
+        </item>
+        <item>¿Qué edad tenia colon a la hora de su fallecimiento?;65 años;*54 años;32 años;85
+            años
+        </item>
+        <item>¿En qué fecha se realizó el tercer viaje de Cristóbal
+            Colon?;1492-1495;*1498-1500;1493-1496;1500-1502
+        </item>
+        <item>¿Cuáles eran los nombres de las tres carabelas que Cristóbal Colon?;María, Josefa,
+            Cristina;La blanca, Jesu, Pedro;Caribe, India, Santa;*La Pinta, La Niña y La Santa María
+        </item>
+    </array>
+
+ 	<array name="nivel_4">
+ 		<item>¿Fecha de nacimiento de Rafael Leónidas Trujillo Molina?;*24 de octubre de 1891;30 de mayo de 1961;18 de mayo de 1942;16 de agosto de 1930</item>
+ 		<item>¿Dónde nació Rafael Leónidas Trujillo Molina?;San Pedro de Macorís;La Vegas;*San Cristóbal;Santiago</item>
+ 		<item>¿En que año fue el primer mandato de Rafael Leónidas Trujillo Molina?; 1961;1891;*1930;1844</item>
+ 		<item>¿Bajo qué acciones llego Rafael Leónidas Trujillo hacer presidente de la república dominicana?;Elecciones; Proclamación;*Golpe de Estado; Nepotismo</item>
+ 		<item>¿Qué gobierno apoyo a Rafael Leónidas Trujillo en los planes del golpe de estado a la republica dominicana?;Gobierno Colombiano;*Gobierno Americano; Gobierno Venezolano; Gobierno Haitiano </item>
+ 		<item>¿Cuántos Años duro el gobierno de Rafael Leónidas Trujillo Molina?;20 Años;*30 Años;50 Años;8 Años</item>
+ 		<item>¿El gobierno de Rafael Leónidas Trujillo fue considerado como?; Humanitario; Desarrollador;*Sangriento;Ningunos</item>
+ 		<item>¿A qué presidente Rafael Leónidas Trujillo derroco con un golpe de esta?;*Horacio Vásquez; Joaquín Balaguer; Rafael Bonnelly; Juan Bosch</item>
+ 		<item>¿En que fecha Rafael Leónidas Trujillo derroco a Horacio Vásquez con un golpe de estado?;16 de agosto 1930;*24 de febrero de 1930;24 de octubre de 1891;27 de febrero 1844</item>
+ 		<item>¿Quién era el vicepresidente de Horacio Vázquez en momento del golpe de estado?; Juan Bosch; Joaquín Balaguer;*José Alfonseca;Ningunos</item>
+ 		<item>¿Como Rafael Leónidas Trujillo llamo a la capital de Republica Dominicana; Santo Domingo;*Ciudad Trujillo; Quisqueya la Bella; Ciudad Duarte</item>
+ 		<item>¿A Cual Presidente Venezolano Rafael Leónidas Trujillo, le realizo un atentado?;*Rómulo Betancourt; Hugo Chávez; Rafael Caldera; Raúl Leoni</item>
+ 		<item>¿Cuántos años tenia Rafael Leónidas Trujillo Molina en su muerte?;49 Años;56 Años;*69 Años;61 Años</item>
+ 		<item>¿Cómo murió Rafael Leónidas Trujillo Molina?;Accidente; Enfermedad;*Acribillado; Ahorcado</item>
+ 		<item>¿En qué fecha Asesinan a Rafael Leónidas Trujillo Molina?;*30 de mayo de 1961;24 de octubre 1891;16 de agosto de 1930;25 de mayo de 1938</item>
+        <item>¿Cuántos Años duro el gobierno de Rafael Leónidas Trujillo Molina?;20 Años;*30 Años;50 Años;8 Años</item>
+    </array>
+
+
+    <!--   Descripcion de la app-->
+    <string name="descripcion">Bienvenido PINOS, demuestra que tanto sabes de nuestra historia, aquí tendrá una variedad de preguntas en selección múltiple, donde tu conocimiento estará puesto a prueba.</string>
+
+
+<!--    <string name="app_name">JuegoOrtografia</string>-->
+    <string name="app_name">PINOS</string>
+    <string name="title_activity_buena">Buena</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="pinos">PINOS</string>
+    <string name="iniciar_juego">Iniciar Juego</string>
+    <string name="inicia_sesion">Inicia sesion</string>
+    <string name="todo">TODO</string>
+</resources>

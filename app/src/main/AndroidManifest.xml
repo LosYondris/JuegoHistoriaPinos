@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cornelio.losyondris.juegohistoriapinos">
+
+    <application
+        android:name="com.cornelio.losyondris.juegohistoriapinos.Firebase"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.JuegoOrtografia">
+        <activity android:name="com.cornelio.losyondris.juegohistoriapinos.Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.cornelio.losyondris.juegohistoriapinos.List_Amigo" />
+        <activity android:name="com.cornelio.losyondris.juegohistoriapinos.Juego" />
+        <activity android:name="com.cornelio.losyondris.juegohistoriapinos.MainActivity" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <receiver
+            android:name="com.cornelio.losyondris.juegohistoriapinos.Alarma.MyRebootReceiver"
+            android:enabled="true"
+            android:exported="true"></receiver>
+
+        <receiver
+            android:name="com.cornelio.losyondris.juegohistoriapinos.Alarma.AlarmReceiver"
+            android:enabled="true"
+            android:exported="true" />
+
+        <service
+            android:name="com.cornelio.losyondris.juegohistoriapinos.Alarma.RebootServiceClass"
+            android:exported="false" />
+
+        <service
+            android:name="com.cornelio.losyondris.juegohistoriapinos.Alarma.NotificationService"
+            android:enabled="true" />
+    </application>
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" /> <!-- MAKE ALARMS RESTART ON REBOOT -->
+    <uses-permission android:name="com.google.android.gms.permission.ACTIVITY_RECOGNITION" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+
+</manifest>

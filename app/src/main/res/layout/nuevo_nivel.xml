@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="300dp"
+    android:layout_gravity="center"
+    android:id="@+id/id_nuevoNivel"
+    android:background="@drawable/nuevo_nivel"
+    android:layout_height="350dp">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="5dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="FELCIDADES"
+            android:fontFamily="@font/bowlby_one"
+            android:textStyle="bold"
+            android:textColor="@color/my_color_b"
+            android:textSize="35dp"/>
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pasate al Siguiente Nivel"
+            android:layout_marginBottom="-40dp"
+            android:fontFamily="@font/autour_one"
+            android:textStyle="bold"
+            android:textColor="@color/my_color_b"
+            android:textSize="16dp"/>
+
+        <TextView
+            android:id="@+id/NumeroNIvel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="150dp"
+            android:text="50"
+            android:layout_gravity="center"
+            android:fontFamily="@font/bowlby_one"
+            android:textColor="@color/my_color_b"
+            android:gravity="center"/>
+
+
+        <!--        estrellas del blancas-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:layout_marginTop="-60dp">
+
+            <TextView
+                android:id="@+id/live1"
+                android:layout_width="46dp"
+                android:layout_height="46dp"
+                android:layout_margin="2dp"
+                android:background="@drawable/estrella_color"/>
+            <TextView
+                android:id="@+id/live2"
+                android:layout_width="46dp"
+                android:layout_height="46dp"
+                android:layout_margin="2dp"
+                android:background="@drawable/estrella_color"/>
+            <TextView
+                android:id="@+id/live3"
+                android:layout_width="46dp"
+                android:layout_height="46dp"
+                android:layout_margin="2dp"
+                android:background="@drawable/estrella_color"/>
+
+
+        </LinearLayout>
+
+
+
+
+
+        <TextView
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Continua jugando"
+            android:fontFamily="@font/autour_one"
+            android:textStyle="bold"
+            android:layout_marginTop="0dp"
+            android:textColor="@color/my_color_b"
+            android:textSize="20dp"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--    <TextView-->
+<!--        android:foreground="@drawable/bolde_bg"-->
+<!--        android:background="@drawable/btn_pregunta"-->
+<!--        android:id="@+id/dia_cerrar"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="OK"-->
+<!--        android:textColor="#fff"-->
+<!--        android:textSize="20sp"-->
+<!--        android:padding="8dp"-->
+<!--        android:layout_margin="20dp"-->
+<!--        android:textStyle="bold"-->
+<!--        android:gravity="center"-->
+<!--        android:layout_marginBottom="20dp"-->
+<!--        android:layout_gravity="center"/>-->
+
+    </LinearLayout>
+
+</LinearLayout>

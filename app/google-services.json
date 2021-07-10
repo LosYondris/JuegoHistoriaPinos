@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703433565853",
+    "project_id": "juegoortografia",
+    "storage_bucket": "juegoortografia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703433565853:android:b7792054af009f6f029674",
+        "android_client_info": {
+          "package_name": "com.cornelio.losyondris.juegoortografia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703433565853-u8s4pmlr1a8c3nh6mtn5k7cp6lkgbf5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMFCzT6FhqBk_LTBR1-4laKkPDchPFn08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703433565853-u8s4pmlr1a8c3nh6mtn5k7cp6lkgbf5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="300dp"
+    android:layout_gravity="center"
+    android:background="@drawable/bg_rojo_borde_amerillo"
+    android:layout_height="500dp">
+
+    <!--    android:background="@drawable/degradado"-->
+    <!--    <LinearLayout-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:gravity="end"-->
+    <!--        android:layout_gravity="center"-->
+    <!--        android:layout_height="wrap_content">-->
+
+    <TextView
+        android:background="@drawable/bolde_bg"
+        android:id="@+id/fbb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="X"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="120dp"
+        android:textColor="#fff"
+        android:textSize="12sp"
+        android:fontFamily="@font/bowlby_one"
+        android:padding="6dp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_gravity="center"/>
+
+    <!--    </LinearLayout>-->
+
+
+    <ImageView
+        android:id="@+id/id_monedad"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="-10dp"
+        android:layout_marginBottom="5dp"
+        android:foreground="@drawable/nivel"
+        android:background="@drawable/btn_pregunta"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NUEVO NIVEL DISPONIBLE"
+        android:fontFamily="@font/autour_one"
+        android:textColor="#fff"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:gravity="center"/>
+
+    <LinearLayout
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:padding="10dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:padding="2dp"
+            android:gravity="center"
+            android:layout_height="wrap_content">
+
+            <ImageButton
+                android:id="@+id/nivel1"
+                android:layout_weight="1"
+                android:layout_width="110dp"
+                android:layout_height="60dp"
+                android:layout_margin="2dp"
+                android:src="@drawable/nivel"
+                android:background="@drawable/bg_bolde"/>
+
+            <ImageButton
+                android:id="@+id/nivel2"
+                android:layout_weight="1"
+                android:layout_width="110dp"
+                android:layout_height="60dp"
+                android:layout_margin="2dp"
+                android:src="@drawable/nivel"
+                android:background="@drawable/bg_bolde"/>
+
+            <ImageButton
+                android:id="@+id/nivel3"
+                android:layout_weight="1"
+                android:layout_width="110dp"
+                android:layout_height="60dp"
+                android:layout_margin="2dp"
+                android:src="@drawable/nivel"
+                android:background="@drawable/bg_bolde"/>
+
+            <ImageButton
+                android:id="@+id/nivel4"
+                android:layout_weight="1"
+                android:layout_width="110dp"
+                android:layout_height="60dp"
+                android:layout_margin="2dp"
+                android:src="@drawable/nivel"
+                android:background="@drawable/bg_bolde"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:padding="2dp"
+            android:layout_height="wrap_content">
+
+            <ImageButton
+                android:id="@+id/nivel5"
+                android:layout_weight="1"
+                android:layout_width="110dp"
+                android:layout_height="60dp"
+                android:layout_margin="2dp"
+                android:src="@drawable/nivel"
+                android:background="@drawable/bg_bolde"/>
+
+            <ImageButton
+                android:id="@+id/nivel6"
+                android:layout_weight="1"
+                android:layout_width="110dp"
+                android:layout_height="60dp"
+                android:layout_margin="2dp"
+                android:src="@drawable/nivel"
+                android:background="@drawable/bg_bolde"/>
+
+            <ImageButton
+                android:id="@+id/nivel7"
+                android:layout_weight="1"
+                android:layout_width="110dp"
+                android:layout_height="60dp"
+                android:layout_margin="2dp"
+                android:src="@drawable/nivel"
+                android:background="@drawable/bg_bolde"/>
+
+            <ImageButton
+                android:id="@+id/nivel8"
+                android:layout_weight="1"
+                android:layout_width="110dp"
+                android:layout_height="60dp"
+                android:layout_margin="2dp"
+                android:src="@drawable/nivel"
+                android:background="@drawable/bg_bolde"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:padding="2dp"
+            android:layout_height="wrap_content">
+
+            <ImageButton
+                android:id="@+id/nivel9"
+                android:layout_weight="1"
+                android:layout_width="110dp"
+                android:layout_height="60dp"
+                android:layout_margin="2dp"
+                android:src="@drawable/nivel"
+                android:background="@drawable/bg_bolde"/>
+
+            <ImageButton
+                android:id="@+id/nivel10"
+                android:layout_weight="1"
+                android:layout_width="110dp"
+                android:layout_height="60dp"
+                android:layout_margin="2dp"
+                android:src="@drawable/nivel"
+                android:background="@drawable/bg_bolde"/>
+
+            <ImageButton
+                android:id="@+id/nivel11"
+                android:layout_weight="1"
+                android:layout_width="110dp"
+                android:layout_height="60dp"
+                android:layout_margin="2dp"
+                android:src="@drawable/nivel"
+                android:background="@drawable/bg_bolde"/>
+
+            <ImageButton
+                android:id="@+id/nivel12"
+                android:layout_weight="1"
+                android:layout_width="110dp"
+                android:layout_height="60dp"
+                android:layout_margin="2dp"
+                android:src="@drawable/nivel"
+                android:background="@drawable/bg_bolde"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:padding="2dp"
+            android:layout_height="wrap_content">
+
+            <ImageButton
+                android:id="@+id/nivel13"
+                android:layout_weight="1"
+                android:layout_width="110dp"
+                android:layout_height="60dp"
+                android:layout_margin="2dp"
+                android:src="@drawable/nivel"
+                android:background="@drawable/bg_bolde"/>
+
+            <ImageButton
+                android:id="@+id/nivel14"
+                android:layout_weight="1"
+                android:layout_width="110dp"
+                android:layout_height="60dp"
+                android:layout_margin="2dp"
+                android:src="@drawable/nivel"
+                android:background="@drawable/bg_bolde"/>
+
+            <ImageButton
+                android:id="@+id/nivel15"
+                android:layout_weight="1"
+                android:layout_width="110dp"
+                android:layout_height="60dp"
+                android:layout_margin="2dp"
+                android:src="@drawable/nivel"
+                android:background="@drawable/bg_bolde"/>
+
+            <ImageButton
+                android:id="@+id/nivel16"
+                android:layout_weight="1"
+                android:layout_width="110dp"
+                android:layout_height="60dp"
+                android:layout_margin="2dp"
+                android:src="@drawable/nivel"
+                android:background="@drawable/bg_bolde"/>
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+
+
+
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="Vas muy bien, sigue jugando para abrir mas niveles"
+        android:textColor="#fff"
+        android:textSize="14sp"
+        android:fontFamily="@font/autour_one"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:gravity="center"/>
+
+</LinearLayout>

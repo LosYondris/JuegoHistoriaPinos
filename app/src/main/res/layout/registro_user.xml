@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="300dp"
+    android:layout_gravity="center"
+    android:background="@drawable/bg_rojo_borde_amerillo"
+    android:layout_height="500dp">
+
+
+    <ImageView
+        android:id="@+id/id_monedad"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/pinos_iconos"/>
+
+
+    <TextView
+        android:id="@+id/idbio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Registrate"
+        android:fontFamily="@font/bowlby_one"
+        android:textColor="#fff"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:gravity="center"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_margin="8dp"
+        android:padding="8dp"
+        android:orientation="vertical">
+
+
+
+        <EditText
+            android:id="@+id/id_nombre"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Nombre"
+            android:drawableStart="@drawable/icono_flecha"
+            android:drawablePadding="10dp"
+            android:layout_margin="5dp"
+            android:textColor="@color/black"
+            android:fontFamily="@font/bowlby_one"
+            android:background="@drawable/input_edi"
+            android:inputType="text"/>
+
+        <EditText
+            android:id="@+id/id_apellido"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Apellido"
+            android:drawableStart="@drawable/icono_flecha"
+            android:drawablePadding="10dp"
+            android:layout_margin="5dp"
+            android:textColor="@color/black"
+            android:fontFamily="@font/bowlby_one"
+            android:background="@drawable/input_edi"
+            android:inputType="text"/>
+
+        <EditText
+            android:id="@+id/id_edad"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Edad"
+            android:drawableStart="@drawable/icono_flecha"
+            android:drawablePadding="10dp"
+            android:layout_margin="5dp"
+            android:textColor="@color/black"
+            android:fontFamily="@font/bowlby_one"
+            android:background="@drawable/input_edi"
+            android:inputType="number"/>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/id_btnGuardar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:text="Guardar"
+            android:textColor="@color/my_color_b"
+            android:fontFamily="@font/bowlby_one"
+            android:background="@drawable/btn_pregunta"/>
+
+    </LinearLayout>
+
+
+
+
+
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="Los Datos solicitados no seran publicado ni compartido con ningun otra plataforma "
+        android:textColor="#fff"
+        android:textSize="10sp"
+        android:layout_marginTop="-20dp"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:gravity="center"/>
+
+</LinearLayout>
